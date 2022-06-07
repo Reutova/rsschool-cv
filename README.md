@@ -1,1 +1,1 @@
-# https://github.com/Reutova/rsschool-cv/blob/gh-pages/cv.md
+### https://reutova.github.io/rsschool-cv/cv

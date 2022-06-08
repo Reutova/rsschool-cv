@@ -1,1 +1,1 @@
-### https://reutova.github.io/rsschool-cv/cv  git
+### https://reutova.github.io/rsschool-cv/cv

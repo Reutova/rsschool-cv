@@ -38,7 +38,6 @@ body {
   flex-direction: column;
   align-items: center;
   top: 20px;
-
 }
 
 .headlines-Posicion {
@@ -71,7 +70,6 @@ body {
   flex-direction: column;
   align-items: center;
   border-bottom: 1px solid;
-
 }
 
 .headlines-Education {
@@ -82,7 +80,6 @@ body {
   flex-direction: column;
   align-items: center;
   border-bottom: 1px solid;
-
 }
 
 .headlines-summary {
@@ -103,7 +100,6 @@ body {
   flex-direction: column;
   align-items: center;
   border-bottom: 1px solid;
-
 }
 
 .headlines-lang {
@@ -114,7 +110,6 @@ body {
   flex-direction: column;
   align-items: center;
   border-bottom: 1px solid;
-
 }
 
 .headlines-me {
@@ -125,7 +120,6 @@ body {
   flex-direction: column;
   align-items: center;
   border-bottom: 1px solid;
-
 }
 
 .headlines-code {
@@ -136,7 +130,6 @@ body {
   flex-direction: column;
   align-items: center;
   border-bottom: 1px solid;
-
 }
 
 .contacts-text {
@@ -151,7 +144,6 @@ body {
   position: relative;
   flex-direction: column;
   padding-bottom: 10px;
-
 }
 
 .summary-text {
@@ -159,7 +151,6 @@ body {
   position: relative;
   flex-direction: column;
   padding-bottom: 10px;
-
 }
 
 .skills-text {
@@ -180,7 +171,6 @@ body {
   font-family: 'Kanit', sans-serif;
   position: relative;
   padding-bottom: 20px;
-
 }
 
 .me-text-2 {

@@ -1,11 +1,10 @@
 REUTOVA YULIYA
 
 Junior UI/UX Designe
-Age: 28
 
 CONTACTS
 
- + 7 950 840 88-88
++ 7 950 840 88-88
 reutovayulia@gmail.com
 Discord: Reutova.y 
 GitHub: https://github.com/Reutova
@@ -44,6 +43,7 @@ Deutsch - Beginner
         
 ABOUT ME
 
+Age: 28
 - Ability to fast self-learning
 - Sociability
 - Skill to work in team

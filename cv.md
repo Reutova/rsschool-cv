@@ -4,7 +4,7 @@ Junior UI/UX Designe
 
 CONTACTS
 
-7 950 840 88-88
++ 7 950 840 88-88
 reutovayulia@gmail.com
 Discord: Reutova.y 
 GitHub: https://github.com/Reutova
@@ -64,5 +64,3 @@ MY CODE
 </div>
 </code>
 </pre>
-
-c 2022

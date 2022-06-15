@@ -1,0 +1,230 @@
+body {
+  background-color: #fff;
+  color: #534951;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+  line-height: 3px;
+}
+
+.container {
+  position: relative;
+  width: 100%;
+  max-width: 1000px;
+  min-height: 1550px;
+  background: #fff;
+  margin: 0px;
+  display: grid;
+  grid-template-columns: 1fr 2fr;
+  box-shadow: 0 35px 55px rgba(0, 0, 0, 1);
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+
+}
+
+.left-side {
+  position: relative;
+  background: #C8B9C4;
+  padding: 50px;
+
+}
+
+.header {
+  font-family: 'Kanit', sans-serif;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  top: 20px;
+
+}
+
+.headlines-Posicion {
+  font-family: 'Dancing Script', cursive;
+  color: #A3889B;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  top: 20px;
+  animation: color-change 3s infinite;
+  padding-bottom: 100px;
+}
+
+@keyframes color-change {
+  50% {
+    color: #c5f0d8;
+  }
+
+  100% {
+    color: #A3889B;
+  }
+}
+
+.headlines-Contacts {
+  font-family: 'Kanit', sans-serif;
+  color: #3f888a;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  border-bottom: 1px solid;
+
+}
+
+.headlines-Education {
+  font-family: 'Kanit', sans-serif;
+  color: #3f888a;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  border-bottom: 1px solid;
+
+}
+
+.headlines-summary {
+  font-family: 'Kanit', sans-serif;
+  color: #3f888a;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  border-bottom: 1px solid;
+}
+
+.headlines-skills {
+  font-family: 'Kanit', sans-serif;
+  color: #3f888a;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  border-bottom: 1px solid;
+
+}
+
+.headlines-lang {
+  font-family: 'Kanit', sans-serif;
+  color: #3f888a;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  border-bottom: 1px solid;
+
+}
+
+.headlines-me {
+  font-family: 'Kanit', sans-serif;
+  color: #3f888a;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  border-bottom: 1px solid;
+
+}
+
+.headlines-code {
+  font-family: 'Kanit', sans-serif;
+  color: #3f888a;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  border-bottom: 1px solid;
+
+}
+
+.contacts-text {
+  font-family: 'Kanit', sans-serif;
+  position: relative;
+  flex-direction: column;
+  padding-bottom: 10px;
+}
+
+.education-text {
+  font-family: 'Kanit', sans-serif;
+  position: relative;
+  flex-direction: column;
+  padding-bottom: 10px;
+
+}
+
+.summary-text {
+  font-family: 'Kanit', sans-serif;
+  position: relative;
+  flex-direction: column;
+  padding-bottom: 10px;
+
+}
+
+.skills-text {
+  font-family: 'Kanit', sans-serif;
+  position: relative;
+  flex-direction: column;
+  padding-bottom: 20px;
+}
+
+.lang-text {
+  font-family: 'Kanit', sans-serif;
+  position: relative;
+  flex-direction: column;
+  padding-bottom: 10px;
+}
+
+.me-text {
+  font-family: 'Kanit', sans-serif;
+  position: relative;
+  padding-bottom: 20px;
+
+}
+
+.me-text-2 {
+  font-family: 'Kanit', sans-serif;
+  position: relative;
+  padding-bottom: 20px;
+  line-height: 20px;
+}
+
+.code-text {
+  font-family: 'Kanit', sans-serif;
+  position: relative;
+  flex-direction: column;
+  padding-bottom: 10px;
+}
+
+.right-side {
+  position: relative;
+  background-color: #c5f0d8;
+  padding: 34px;
+}
+
+.footer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  padding: 0 20px;
+}
+
+.nav {
+  font-family: 'Dancing Script', cursive;
+  color: #534951;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-bottom: 5px;
+}
+
+.image {
+padding-bottom: 25px;
+}
+
+code {
+  line-height: 25px;
+  }

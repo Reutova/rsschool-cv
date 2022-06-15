@@ -15,8 +15,8 @@ body {
   min-height: 1550px;
   background: #fff;
   margin: 0px;
-  /* display: grid; */
-  /* grid-template-columns: 1fr 2fr; */
+  display: grid;
+  grid-template-columns: 1fr 2fr;
   box-shadow: 0 35px 55px rgba(0, 0, 0, 1);
   display: flex;
   flex-wrap: wrap;
